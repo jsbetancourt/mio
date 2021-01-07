@@ -1,906 +1,1030 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
-http://usuarios.club/stream/Porfavor/nocomparta/1.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
-http://usuarios.club/stream/Porfavor/nocomparta/734.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
-http://usuarios.club/stream/Porfavor/nocomparta/474.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
-http://usuarios.club/stream/Porfavor/nocomparta/406.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
-http://usuarios.club/stream/Porfavor/nocomparta/444.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias",ADN 40
-http://usuarios.club/stream/Porfavor/nocomparta/447.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
-http://usuarios.club/stream/Porfavor/nocomparta/878.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/426.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
-http://usuarios.club/stream/Porfavor/nocomparta/183.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
-http://usuarios.club/stream/Porfavor/nocomparta/715.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="HD",AMC HD
-http://usuarios.club/stream/Porfavor/nocomparta/475.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
-http://usuarios.club/stream/Porfavor/nocomparta/3.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="HD",Animal Planet HD
-http://usuarios.club/stream/Porfavor/nocomparta/633.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/677.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/reOH2/342ff546e5.png" group-title="Entretenimiento",Anime 24H
-http://usuarios.club/stream/Porfavor/nocomparta/269.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
-http://usuarios.club/stream/Porfavor/nocomparta/298.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
-http://usuarios.club/stream/Porfavor/nocomparta/146.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
-http://usuarios.club/stream/Porfavor/nocomparta/804.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/713.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="HD",AXN HD
-http://usuarios.club/stream/Porfavor/nocomparta/476.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN WHITE (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/714.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes",AyM Sports
-http://usuarios.club/stream/Porfavor/nocomparta/148.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
-http://usuarios.club/stream/Porfavor/nocomparta/186.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento",Az Clic
-http://usuarios.club/stream/Porfavor/nocomparta/165.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento",Az Corazón
-http://usuarios.club/stream/Porfavor/nocomparta/166.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="HD",Az Corazón HD
-http://usuarios.club/stream/Porfavor/nocomparta/834.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico",Azteca 1
-http://usuarios.club/stream/Porfavor/nocomparta/4.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="HD",Azteca 1 HD
-http://usuarios.club/stream/Porfavor/nocomparta/634.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico",Azteca 7
-http://usuarios.club/stream/Porfavor/nocomparta/5.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="HD",Azteca 7 HD
-http://usuarios.club/stream/Porfavor/nocomparta/635.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
-http://usuarios.club/stream/Porfavor/nocomparta/7.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
-http://usuarios.club/stream/Porfavor/nocomparta/8.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="HD",Bandamax HD
-http://usuarios.club/stream/Porfavor/nocomparta/833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/788.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD",Bein HD
-http://usuarios.club/stream/Porfavor/nocomparta/763.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
-http://usuarios.club/stream/Porfavor/nocomparta/753.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD",BeinSports HD
-http://usuarios.club/stream/Porfavor/nocomparta/9.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes",BeinSports Ñ
-http://usuarios.club/stream/Porfavor/nocomparta/761.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="HD",BeinSports Ñ HD
-http://usuarios.club/stream/Porfavor/nocomparta/376.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/883.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/518.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Boomerang
-http://usuarios.club/stream/Porfavor/nocomparta/11.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Boomerang Sur
-http://usuarios.club/stream/Porfavor/nocomparta/735.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="HD",Boomerang HD
-http://usuarios.club/stream/Porfavor/nocomparta/824.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/789.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/427.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico",Canal 5
-http://usuarios.club/stream/Porfavor/nocomparta/14.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
-http://usuarios.club/stream/Porfavor/nocomparta/411.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas Sur
-http://usuarios.club/stream/Porfavor/nocomparta/736.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="HD",Canal de las Estrellas HD
-http://usuarios.club/stream/Porfavor/nocomparta/636.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico",Canal Once
-http://usuarios.club/stream/Porfavor/nocomparta/15.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España",Canal+ Accion
-http://usuarios.club/stream/Porfavor/nocomparta/364.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
-http://usuarios.club/stream/Porfavor/nocomparta/369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/808.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/428.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica",Capital TV
-http://usuarios.club/stream/Porfavor/nocomparta/205.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento",Caracol Internacional
-http://usuarios.club/stream/Porfavor/nocomparta/290.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
-http://usuarios.club/stream/Porfavor/nocomparta/17.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
-http://usuarios.club/stream/Porfavor/nocomparta/737.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="HD",Cartoon Network HD
-http://usuarios.club/stream/Porfavor/nocomparta/637.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/785.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
-http://usuarios.club/stream/Porfavor/nocomparta/13.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
-http://usuarios.club/stream/Porfavor/nocomparta/318.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="HD",CDF Premium HD
-http://usuarios.club/stream/Porfavor/nocomparta/725.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
-http://usuarios.club/stream/Porfavor/nocomparta/206.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes",CDO
-http://usuarios.club/stream/Porfavor/nocomparta/513.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
-http://usuarios.club/stream/Porfavor/nocomparta/401.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/418.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/417.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Peliculas",Cine 2020
-http://usuarios.club/stream/Porfavor/nocomparta/857.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion
-http://usuarios.club/stream/Porfavor/nocomparta/699.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" group-title="HD",Cine Accion HD
-http://usuarios.club/stream/Porfavor/nocomparta/706.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Peliculas",Cine Accion Sagas
-http://usuarios.club/stream/Porfavor/nocomparta/700.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg" group-title="HD",Cine Accion Sagas HD
-http://usuarios.club/stream/Porfavor/nocomparta/707.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Peliculas",Cine Comedia 1
-http://usuarios.club/stream/Porfavor/nocomparta/695.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Peliculas",Cine Comedia 2
-http://usuarios.club/stream/Porfavor/nocomparta/696.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 1
-http://usuarios.club/stream/Porfavor/nocomparta/709.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 2
-http://usuarios.club/stream/Porfavor/nocomparta/710.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" group-title="HD",Cine Ficcion/Fantasia HD
-http://usuarios.club/stream/Porfavor/nocomparta/712.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia Sagas
-http://usuarios.club/stream/Porfavor/nocomparta/711.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",Cine Infantil
-http://usuarios.club/stream/Porfavor/nocomparta/687.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg" group-title="HD",Cine Infantil HD
-http://usuarios.club/stream/Porfavor/nocomparta/702.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Peliculas",Cine Infantil Sagas
-http://usuarios.club/stream/Porfavor/nocomparta/694.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg" group-title="HD",Cine Infantil Sagas HD
-http://usuarios.club/stream/Porfavor/nocomparta/703.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
-http://usuarios.club/stream/Porfavor/nocomparta/295.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Peliculas",Cine Marvel
-http://usuarios.club/stream/Porfavor/nocomparta/697.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg" group-title="HD",Cine Marvel HD
-http://usuarios.club/stream/Porfavor/nocomparta/701.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas",Cine Romance
-http://usuarios.club/stream/Porfavor/nocomparta/689.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg" group-title="HD",Cine Romance HD
-http://usuarios.club/stream/Porfavor/nocomparta/705.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas",Cine Terror
-http://usuarios.club/stream/Porfavor/nocomparta/693.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" group-title="HD",Cine Terror HD
-http://usuarios.club/stream/Porfavor/nocomparta/704.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis
-http://usuarios.club/stream/Porfavor/nocomparta/688.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
-http://usuarios.club/stream/Porfavor/nocomparta/18.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
-http://usuarios.club/stream/Porfavor/nocomparta/738.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD",Cinecanal HD
-http://usuarios.club/stream/Porfavor/nocomparta/479.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
-http://usuarios.club/stream/Porfavor/nocomparta/20.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
-http://usuarios.club/stream/Porfavor/nocomparta/739.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="HD",Cinemax HD
-http://usuarios.club/stream/Porfavor/nocomparta/638.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes",Claro Sports
-http://usuarios.club/stream/Porfavor/nocomparta/328.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias",CNN en Español
-http://usuarios.club/stream/Porfavor/nocomparta/136.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central
-http://usuarios.club/stream/Porfavor/nocomparta/135.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
-http://usuarios.club/stream/Porfavor/nocomparta/740.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="España",Comedy Central (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/719.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="HD",Comedy Central HD
-http://usuarios.club/stream/Porfavor/nocomparta/480.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/519.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España",Crime Investigation (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/720.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mKFpp/77be8fe6f9.png" group-title="Chile",CTNI
-http://usuarios.club/stream/Porfavor/nocomparta/160.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas",De Película
-http://usuarios.club/stream/Porfavor/nocomparta/21.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="HD",De Pelicula HD
-http://usuarios.club/stream/Porfavor/nocomparta/481.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
-http://usuarios.club/stream/Porfavor/nocomparta/139.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/DHE.png" group-title="Peliculas",DHE
-http://usuarios.club/stream/Porfavor/nocomparta/844.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/670.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirectTV Sports
-http://usuarios.club/stream/Porfavor/nocomparta/259.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes",DirectTV Sports 2
-http://usuarios.club/stream/Porfavor/nocomparta/667.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="HD",DirectTV Sports Peru HD
-http://usuarios.club/stream/Porfavor/nocomparta/879.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel
-http://usuarios.club/stream/Porfavor/nocomparta/22.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel Sur
-http://usuarios.club/stream/Porfavor/nocomparta/741.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="HD",Discovery Channel HD
-http://usuarios.club/stream/Porfavor/nocomparta/639.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura",Discovery Civilization
-http://usuarios.club/stream/Porfavor/nocomparta/23.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H
-http://usuarios.club/stream/Porfavor/nocomparta/24.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
-http://usuarios.club/stream/Porfavor/nocomparta/742.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="HD",Discovery H&H HD
-http://usuarios.club/stream/Porfavor/nocomparta/640.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
-http://usuarios.club/stream/Porfavor/nocomparta/25.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="HD",Discovery Kids HD
-http://usuarios.club/stream/Porfavor/nocomparta/641.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura",Discovery SCI
-http://usuarios.club/stream/Porfavor/nocomparta/26.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura",Discovery Theater HD
-http://usuarios.club/stream/Porfavor/nocomparta/27.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura",Discovery Turbo
-http://usuarios.club/stream/Porfavor/nocomparta/28.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="HD",Discovery Turbo HD
-http://usuarios.club/stream/Porfavor/nocomparta/727.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
-http://usuarios.club/stream/Porfavor/nocomparta/187.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles",Disney Channel
-http://usuarios.club/stream/Porfavor/nocomparta/29.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior
-http://usuarios.club/stream/Porfavor/nocomparta/30.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior Sur
-http://usuarios.club/stream/Porfavor/nocomparta/743.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="HD",Disney Junior HD
-http://usuarios.club/stream/Porfavor/nocomparta/826.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD
-http://usuarios.club/stream/Porfavor/nocomparta/31.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD Sur
-http://usuarios.club/stream/Porfavor/nocomparta/744.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="HD",Disney XD HD
-http://usuarios.club/stream/Porfavor/nocomparta/827.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
-http://usuarios.club/stream/Porfavor/nocomparta/32.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica",Djing Ibiza
-http://usuarios.club/stream/Porfavor/nocomparta/277.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/521.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/425.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/520.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/424.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/329.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
-http://usuarios.club/stream/Porfavor/nocomparta/33.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="HD",E! HD
-http://usuarios.club/stream/Porfavor/nocomparta/483.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias",Efekto TV
-http://usuarios.club/stream/Porfavor/nocomparta/275.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/790.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/400.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/429.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/845.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
-http://usuarios.club/stream/Porfavor/nocomparta/157.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/791.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/525.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/430.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El Señor de los Cielos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/820.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mKFvL/1137b892f2.png" group-title="Religion",Enlace Juvenil
-http://usuarios.club/stream/Porfavor/nocomparta/162.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mKFtG/9926077bd4.png" group-title="Religion",Enlace TV
-http://usuarios.club/stream/Porfavor/nocomparta/161.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
-http://usuarios.club/stream/Porfavor/nocomparta/34.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
-http://usuarios.club/stream/Porfavor/nocomparta/35.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="HD",ESPN 2 HD
-http://usuarios.club/stream/Porfavor/nocomparta/484.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
-http://usuarios.club/stream/Porfavor/nocomparta/531.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="HD",ESPN 3 HD
-http://usuarios.club/stream/Porfavor/nocomparta/485.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
-http://usuarios.club/stream/Porfavor/nocomparta/842.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="HD",ESPN HD
-http://usuarios.club/stream/Porfavor/nocomparta/486.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
-http://usuarios.club/stream/Porfavor/nocomparta/530.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
-http://usuarios.club/stream/Porfavor/nocomparta/37.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD",ESPN Plus HD
-http://usuarios.club/stream/Porfavor/nocomparta/487.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
-http://usuarios.club/stream/Porfavor/nocomparta/177.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
-http://usuarios.club/stream/Porfavor/nocomparta/39.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion",EWTN
-http://usuarios.club/stream/Porfavor/nocomparta/38.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",F1 TV
-http://usuarios.club/stream/Porfavor/nocomparta/192.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD",Film & Arts HD
-http://usuarios.club/stream/Porfavor/nocomparta/149.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD",Film & Arts HD (EN)
-http://usuarios.club/stream/Porfavor/nocomparta/729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",FM Hot TV
-http://usuarios.club/stream/Porfavor/nocomparta/731.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox
-http://usuarios.club/stream/Porfavor/nocomparta/45.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
-http://usuarios.club/stream/Porfavor/nocomparta/750.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxaction.png" group-title="Peliculas",Fox Action
-http://usuarios.club/stream/Porfavor/nocomparta/46.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxaction.png" group-title="HD",Fox Action HD
-http://usuarios.club/stream/Porfavor/nocomparta/490.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxcinema.png" group-title="Peliculas",Fox Cinema
-http://usuarios.club/stream/Porfavor/nocomparta/47.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxclassics.png" group-title="Peliculas",Fox Classics
-http://usuarios.club/stream/Porfavor/nocomparta/48.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxfamily.png" group-title="Peliculas",Fox Family
-http://usuarios.club/stream/Porfavor/nocomparta/49.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxfamily.png" group-title="HD",Fox Family HD
-http://usuarios.club/stream/Porfavor/nocomparta/840.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="HD",Fox HD
-http://usuarios.club/stream/Porfavor/nocomparta/489.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="Entretenimiento",Fox Life
-http://usuarios.club/stream/Porfavor/nocomparta/50.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="Entretenimiento",Fox Life Sur
-http://usuarios.club/stream/Porfavor/nocomparta/746.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="HD",Fox Life HD
-http://usuarios.club/stream/Porfavor/nocomparta/652.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="Peliculas",Fox Movies
-http://usuarios.club/stream/Porfavor/nocomparta/51.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="Peliculas",Fox Movies Sur
-http://usuarios.club/stream/Porfavor/nocomparta/747.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="HD",Fox Movies HD
-http://usuarios.club/stream/Porfavor/nocomparta/491.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="Entretenimiento",Fox Series
-http://usuarios.club/stream/Porfavor/nocomparta/303.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="Entretenimiento",Fox Series Sur
-http://usuarios.club/stream/Porfavor/nocomparta/745.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="HD",Fox Series HD
-http://usuarios.club/stream/Porfavor/nocomparta/492.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-http://usuarios.club/stream/Porfavor/nocomparta/52.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
-http://usuarios.club/stream/Porfavor/nocomparta/53.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
-http://usuarios.club/stream/Porfavor/nocomparta/770.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 HD
-http://usuarios.club/stream/Porfavor/nocomparta/494.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
-http://usuarios.club/stream/Porfavor/nocomparta/528.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
-http://usuarios.club/stream/Porfavor/nocomparta/54.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD",Fox Sports 3 HD
-http://usuarios.club/stream/Porfavor/nocomparta/839.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports Argentina HD
-http://usuarios.club/stream/Porfavor/nocomparta/769.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports HD
-http://usuarios.club/stream/Porfavor/nocomparta/493.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
-http://usuarios.club/stream/Porfavor/nocomparta/527.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
-http://usuarios.club/stream/Porfavor/nocomparta/748.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
-http://usuarios.club/stream/Porfavor/nocomparta/512.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
-http://usuarios.club/stream/Porfavor/nocomparta/658.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
-http://usuarios.club/stream/Porfavor/nocomparta/402.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
-http://usuarios.club/stream/Porfavor/nocomparta/410.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
-http://usuarios.club/stream/Porfavor/nocomparta/511.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/793.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
-http://usuarios.club/stream/Porfavor/nocomparta/42.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX Sur
-http://usuarios.club/stream/Porfavor/nocomparta/749.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="HD",FX HD
-http://usuarios.club/stream/Porfavor/nocomparta/495.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas",FXM
-http://usuarios.club/stream/Porfavor/nocomparta/43.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="HD",FXM HD
-http://usuarios.club/stream/Porfavor/nocomparta/488.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
-http://usuarios.club/stream/Porfavor/nocomparta/56.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="HD",Gala TV HD
-http://usuarios.club/stream/Porfavor/nocomparta/651.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xUVfc/26d2b37843.png" group-title="24/7",Game of Thrones 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/515.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Garfield 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/812.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
-http://usuarios.club/stream/Porfavor/nocomparta/158.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
-http://usuarios.club/stream/Porfavor/nocomparta/686.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
-http://usuarios.club/stream/Porfavor/nocomparta/287.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="HD",Gol TV HD
-http://usuarios.club/stream/Porfavor/nocomparta/514.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
-http://usuarios.club/stream/Porfavor/nocomparta/57.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas",Golden Edge
-http://usuarios.club/stream/Porfavor/nocomparta/58.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="HD",Golden HD
-http://usuarios.club/stream/Porfavor/nocomparta/496.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2
-http://usuarios.club/stream/Porfavor/nocomparta/61.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
-http://usuarios.club/stream/Porfavor/nocomparta/760.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
-http://usuarios.club/stream/Porfavor/nocomparta/62.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
-http://usuarios.club/stream/Porfavor/nocomparta/723.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
-http://usuarios.club/stream/Porfavor/nocomparta/300.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
-http://usuarios.club/stream/Porfavor/nocomparta/724.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD
-http://usuarios.club/stream/Porfavor/nocomparta/732.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD (EN)
-http://usuarios.club/stream/Porfavor/nocomparta/733.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
-http://usuarios.club/stream/Porfavor/nocomparta/63.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="HD",HBO HD
-http://usuarios.club/stream/Porfavor/nocomparta/654.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
-http://usuarios.club/stream/Porfavor/nocomparta/64.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
-http://usuarios.club/stream/Porfavor/nocomparta/722.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus HD
-http://usuarios.club/stream/Porfavor/nocomparta/655.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus Oeste HD
-http://usuarios.club/stream/Porfavor/nocomparta/728.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
-http://usuarios.club/stream/Porfavor/nocomparta/814.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
-http://usuarios.club/stream/Porfavor/nocomparta/841.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/y0QgW/470f001647.png" group-title="24/7",Hey Arnold 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/522.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="España",Historia (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/718.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",History Channel
-http://usuarios.club/stream/Porfavor/nocomparta/67.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD",History Channel HD
-http://usuarios.club/stream/Porfavor/nocomparta/642.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica",Hit TV
-http://usuarios.club/stream/Porfavor/nocomparta/201.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento",Hola TV
-http://usuarios.club/stream/Porfavor/nocomparta/189.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica",HTV
-http://usuarios.club/stream/Porfavor/nocomparta/66.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas",I.Sat
-http://usuarios.club/stream/Porfavor/nocomparta/153.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",Imagen Television
-http://usuarios.club/stream/Porfavor/nocomparta/341.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="HD",Imagen Televisión HD
-http://usuarios.club/stream/Porfavor/nocomparta/643.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura",Investigation Discovery
-http://usuarios.club/stream/Porfavor/nocomparta/68.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="HD",Investigation Discovery HD
-http://usuarios.club/stream/Porfavor/nocomparta/825.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EY93W/56852b4788.png" group-title="24/7",Johnny Bravo 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/786.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nB44g/098e405622.png" group-title="Musica",Juce TV
-http://usuarios.club/stream/Porfavor/nocomparta/263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Casa de Papel 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",La Familia PeLuche 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/811.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/DBAQp/9f253118db.png" group-title="24/7",La Pantera Rosa 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Pequeña Lulu 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/792.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/qwMC0/376cc81b30.png" group-title="España",La Sexta
-http://usuarios.club/stream/Porfavor/nocomparta/326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",La Vaca y ElPollito 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/809.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="Entretenimiento",Lifetime
-http://usuarios.club/stream/Porfavor/nocomparta/152.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/y0Qk3/1467bbdb22.png" group-title="24/7",Looney Tunes 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/524.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xa5Ns/e9ca28e7a5.png" group-title="24/7",Los 3 Chiflados 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Los Años Maravillosos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Los Padrinos Magicos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/813.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/CtBpW/a59c90b39c.png" group-title="24/7",Los Picapiedra 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Los Pinguinos de Madagascar 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Los Pitufos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Los Reyes de la Colina 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/796.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/s2xL8/b732aa9e6c.png" group-title="24/7",Los Simpson 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Los Supersonicos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/797.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/FHXdj/4151f70d56.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/818.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nsWwi/c18fe4842e.png" group-title="Musica",m2o TV
-http://usuarios.club/stream/Porfavor/nocomparta/203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Malcolm 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/798.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mP20o/154ed6c1a3.png" group-title="Entretenimiento",Más chic
-http://usuarios.club/stream/Porfavor/nocomparta/180.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbMc2/7317d4746c.png" group-title="HD",Max Prime HD
-http://usuarios.club/stream/Porfavor/nocomparta/730.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento",Max Steel 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/880.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbM9Q/075938049b.png" group-title="HD",Max Up HD
-http://usuarios.club/stream/Porfavor/nocomparta/659.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/rR8N3/9ca59d233e.png" group-title="España",Mega (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/352.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xW4oN/70b72103bc.png" group-title="Peliculas",MegaCine HD
-http://usuarios.club/stream/Porfavor/nocomparta/517.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mNvBc/cad6baaa87.png" group-title="Musica",Mi Musica HD
-http://usuarios.club/stream/Porfavor/nocomparta/172.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nvrR5/1bb233b647.png" group-title="Entretenimiento",Miami TV
-http://usuarios.club/stream/Porfavor/nocomparta/251.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwdSw/26eea6807c.png" group-title="Noticias",Milenio HD
-http://usuarios.club/stream/Porfavor/nocomparta/140.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/pI5ze/cb6fa7f177.png" group-title="Deportes",MLB Network
-http://usuarios.club/stream/Porfavor/nocomparta/293.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAzk/e84969f417.png" group-title="Peliculas",Movie Max
-http://usuarios.club/stream/Porfavor/nocomparta/678.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/tcPyX/933e3b17e1.png" group-title="España",Movistar Comedia
-http://usuarios.club/stream/Porfavor/nocomparta/370.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/tcNE5/7aa9899bd2.png" group-title="Deportes",Movistar Deportes
-http://usuarios.club/stream/Porfavor/nocomparta/366.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/tcNIh/64eddc27d3.png" group-title="Deportes",Movistar Deportes 2
-http://usuarios.club/stream/Porfavor/nocomparta/367.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/tdoew/881172c61c.png" group-title="España",Movistar Xtra
-http://usuarios.club/stream/Porfavor/nocomparta/372.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xh3hv/30cc1bff4d.png" group-title="24/7",Mr. Bean 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/431.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="Entretenimiento",MTV
-http://usuarios.club/stream/Porfavor/nocomparta/69.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="España",MTV (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/803.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="HD",MTV HD
-http://usuarios.club/stream/Porfavor/nocomparta/828.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live
-http://usuarios.club/stream/Porfavor/nocomparta/70.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="Entretenimiento",MTV Sur
-http://usuarios.club/stream/Porfavor/nocomparta/823.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mB993/e7befece5a.png" group-title="Mexico",Multimedios
-http://usuarios.club/stream/Porfavor/nocomparta/155.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/pIdJh/69253eb40c.png" group-title="Peliculas",MultiPremier
-http://usuarios.club/stream/Porfavor/nocomparta/294.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EBRtq/20df0e854f.png" group-title="Musica",Music Now
-http://usuarios.club/stream/Porfavor/nocomparta/690.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EBRuN/9a626ca738.png" group-title="Musica",MusicTop
-http://usuarios.club/stream/Porfavor/nocomparta/691.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xuJNI/f239c35793.png" group-title="Noticias",MVS Noticias
-http://usuarios.club/stream/Porfavor/nocomparta/448.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/y0QiQ/5d3daf3b2c.png" group-title="24/7",Naruto 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/523.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="Cultura",Nat Geo
-http://usuarios.club/stream/Porfavor/nocomparta/76.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="HD",Nat Geo HD
-http://usuarios.club/stream/Porfavor/nocomparta/644.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="Infantiles",Nat Geo Kids
-http://usuarios.club/stream/Porfavor/nocomparta/412.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="Cultura",Nat Geo Wild
-http://usuarios.club/stream/Porfavor/nocomparta/77.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="HD",Nat Geo Wild HD
-http://usuarios.club/stream/Porfavor/nocomparta/497.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/GrZD4/4f46e1d371.png" group-title="Deportes",NBA
-http://usuarios.club/stream/Porfavor/nocomparta/838.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/rR8Mx/d098afd8f4.png" group-title="España",Neox (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/353.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nsXRU/67cee608f8.png" group-title="Deportes",NFL Network
-http://usuarios.club/stream/Porfavor/nocomparta/204.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="Infantiles",Nick
-http://usuarios.club/stream/Porfavor/nocomparta/78.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="HD",Nick 2 HD
-http://usuarios.club/stream/Porfavor/nocomparta/646.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mVS4R/93935891ed.png" group-title="HD",Nick HD
-http://usuarios.club/stream/Porfavor/nocomparta/645.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="Infantiles",Nick JR
-http://usuarios.club/stream/Porfavor/nocomparta/79.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="HD",Nick JR HD
-http://usuarios.club/stream/Porfavor/nocomparta/829.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mb3Dz/67ee44ac5a.png" group-title="Infantiles",Nick Toons
-http://usuarios.club/stream/Porfavor/nocomparta/80.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mVS4R/93935891ed.png" group-title="Infantiles",Nickelodeon
-http://usuarios.club/stream/Porfavor/nocomparta/184.m3u8
-#EXTINF:-1 tvg-logo="" group-title="España",Nova (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/717.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/AmR2r/dda840b0ae.png" group-title="24/7",One Punch Man 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/661.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xa3bZ/f544eec079.png" group-title="24/7",Padre de Familia 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/416.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="Peliculas",Paramount
-http://usuarios.club/stream/Porfavor/nocomparta/200.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="HD",Paramount HD
-http://usuarios.club/stream/Porfavor/nocomparta/647.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/ELLw0/50dd438c7e.png" group-title="HD",Pasiones HD
-http://usuarios.club/stream/Porfavor/nocomparta/755.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/FHXdN/483de05c15.png" group-title="Entretenimiento",Patoaventuras 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Patrulla Canina 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Peppa Pig 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Pinky y Cerebro 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Pocoyo 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/799.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xa5eP/a2267d5313.png" group-title="24/7",Pokemon 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/420.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
-http://usuarios.club/stream/Porfavor/nocomparta/847.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
-http://usuarios.club/stream/Porfavor/nocomparta/856.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
-http://usuarios.club/stream/Porfavor/nocomparta/858.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 12
-http://usuarios.club/stream/Porfavor/nocomparta/859.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 13
-http://usuarios.club/stream/Porfavor/nocomparta/860.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 14
-http://usuarios.club/stream/Porfavor/nocomparta/862.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 15
-http://usuarios.club/stream/Porfavor/nocomparta/863.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 16
-http://usuarios.club/stream/Porfavor/nocomparta/864.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 17
-http://usuarios.club/stream/Porfavor/nocomparta/865.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 18
-http://usuarios.club/stream/Porfavor/nocomparta/866.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 19
-http://usuarios.club/stream/Porfavor/nocomparta/861.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 2
-http://usuarios.club/stream/Porfavor/nocomparta/848.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 20
-http://usuarios.club/stream/Porfavor/nocomparta/867.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 21 HD
-http://usuarios.club/stream/Porfavor/nocomparta/868.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 22 HD
-http://usuarios.club/stream/Porfavor/nocomparta/869.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 23 HD
-http://usuarios.club/stream/Porfavor/nocomparta/870.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 24 HD
-http://usuarios.club/stream/Porfavor/nocomparta/871.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 25 HD
-http://usuarios.club/stream/Porfavor/nocomparta/873.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 26 HD
-http://usuarios.club/stream/Porfavor/nocomparta/874.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 27 HD
-http://usuarios.club/stream/Porfavor/nocomparta/876.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 28 HD
-http://usuarios.club/stream/Porfavor/nocomparta/875.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 29 HD
-http://usuarios.club/stream/Porfavor/nocomparta/872.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 3
-http://usuarios.club/stream/Porfavor/nocomparta/849.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 30 HD
-http://usuarios.club/stream/Porfavor/nocomparta/877.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 4
-http://usuarios.club/stream/Porfavor/nocomparta/850.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 5
-http://usuarios.club/stream/Porfavor/nocomparta/851.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 6
-http://usuarios.club/stream/Porfavor/nocomparta/852.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 7
-http://usuarios.club/stream/Porfavor/nocomparta/853.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 8
-http://usuarios.club/stream/Porfavor/nocomparta/854.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 9
-http://usuarios.club/stream/Porfavor/nocomparta/855.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/884.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mVT4M/a54f2b8fcb.png" group-title="Deportes",PX TV
-http://usuarios.club/stream/Porfavor/nocomparta/193.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xa566/7a55632f8c.png" group-title="24/7",Ranma 1/2 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/419.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/rR8KU/39046fe455.png" group-title="Mexico",RCG TV Coahuila
-http://usuarios.club/stream/Porfavor/nocomparta/346.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nB5fs/d0fbb8562f.png" group-title="Deportes",Real Madrid TV
-http://usuarios.club/stream/Porfavor/nocomparta/270.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EBRvr/906730fb62.png" group-title="Musica",Retro Music
-http://usuarios.club/stream/Porfavor/nocomparta/692.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mB8FA/fd9624cae2.png" group-title="Musica",Ritmoson Latino
-http://usuarios.club/stream/Porfavor/nocomparta/154.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/moPpf/233d651bab.png" group-title="HD",RT HD
-http://usuarios.club/stream/Porfavor/nocomparta/142.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/DBAS9/ee4821810e.png" group-title="24/7",Sakura Card Captor 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/672.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/AmRkO/018a04c46a.png" group-title="24/7",Samurai X 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/663.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xa5FE/adef56eb32.png" group-title="24/7",Scooby Doo 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/422.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAAK/ac4660f057.png" group-title="Peliculas",Showtime
-http://usuarios.club/stream/Porfavor/nocomparta/679.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/DBATc/232a671be8.png" group-title="24/7",Smallville 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/673.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="Entretenimiento",Sony
-http://usuarios.club/stream/Porfavor/nocomparta/145.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="HD",Sony HD
-http://usuarios.club/stream/Porfavor/nocomparta/498.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/DBAU9/f5f405b61b.png" group-title="24/7",South Park 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/674.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="Peliculas",Space
-http://usuarios.club/stream/Porfavor/nocomparta/83.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="Peliculas",Space Sur
-http://usuarios.club/stream/Porfavor/nocomparta/751.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="HD",Space HD
-http://usuarios.club/stream/Porfavor/nocomparta/499.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="Peliculas",Starz Cinema
-http://usuarios.club/stream/Porfavor/nocomparta/680.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="Peliculas",Starz Comedy
-http://usuarios.club/stream/Porfavor/nocomparta/681.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="Peliculas",Starz Encore Action
-http://usuarios.club/stream/Porfavor/nocomparta/682.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="Peliculas",Starz Encore Black
-http://usuarios.club/stream/Porfavor/nocomparta/683.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="Peliculas",Starz Encore Family
-http://usuarios.club/stream/Porfavor/nocomparta/684.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="HD",Starz HD
-http://usuarios.club/stream/Porfavor/nocomparta/685.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas",Studio Universal
-http://usuarios.club/stream/Porfavor/nocomparta/84.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="HD",Studio Universal HD
-http://usuarios.club/stream/Porfavor/nocomparta/830.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="24/7",Super Campeones 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/432.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="Peliculas",SyFy
-http://usuarios.club/stream/Porfavor/nocomparta/151.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="Peliculas",SyFy Sur
-http://usuarios.club/stream/Porfavor/nocomparta/758.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="HD",SyFy HD
-http://usuarios.club/stream/Porfavor/nocomparta/648.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="Entretenimiento",TBS Very Funny
-http://usuarios.club/stream/Porfavor/nocomparta/171.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="HD",TBS Very Funny HD
-http://usuarios.club/stream/Porfavor/nocomparta/831.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="Peliculas",TCM
-http://usuarios.club/stream/Porfavor/nocomparta/85.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
-http://usuarios.club/stream/Porfavor/nocomparta/882.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mP29u/cbd4d7f5c3.png" group-title="Entretenimiento",TeleFórmula
-http://usuarios.club/stream/Porfavor/nocomparta/182.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/x0PI6/05b7191ea6.png" group-title="Musica",Telehit
-http://usuarios.club/stream/Porfavor/nocomparta/91.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/x0PI6/05b7191ea6.png" group-title="HD",Telehit HD
-http://usuarios.club/stream/Porfavor/nocomparta/649.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo
-http://usuarios.club/stream/Porfavor/nocomparta/92.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLe8/21bf87649b.png" group-title="HD",Telemundo HD
-http://usuarios.club/stream/Porfavor/nocomparta/660.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebig.png" group-title="24/7",The Big Bang Theory 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",The Walking Dead 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/800.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles",Tiin
-http://usuarios.club/stream/Porfavor/nocomparta/93.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="Entretenimiento",TLC
-http://usuarios.club/stream/Porfavor/nocomparta/87.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLfh/5d97ba6f89.png" group-title="Entretenimiento",Tlnovelas
-http://usuarios.club/stream/Porfavor/nocomparta/94.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLfh/5d97ba6f89.png" group-title="HD",Tlnovelas HD
-http://usuarios.club/stream/Porfavor/nocomparta/832.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas",TNT
-http://usuarios.club/stream/Porfavor/nocomparta/179.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas",TNT Sur
-http://usuarios.club/stream/Porfavor/nocomparta/752.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="España",TNT (ES)
-http://usuarios.club/stream/Porfavor/nocomparta/716.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="HD",TNT HD
-http://usuarios.club/stream/Porfavor/nocomparta/500.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="Entretenimiento",TNT Series
-http://usuarios.club/stream/Porfavor/nocomparta/90.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="Entretenimiento",TNT Series Sur
-http://usuarios.club/stream/Porfavor/nocomparta/757.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="HD",TNT Series HD
-http://usuarios.club/stream/Porfavor/nocomparta/650.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png" group-title="Deportes",TNT Sports
-http://usuarios.club/stream/Porfavor/nocomparta/509.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xa5uD/7e7e1ebc1a.png" group-title="24/7",Tom y Jerry 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/421.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles",Tooncast
-http://usuarios.club/stream/Porfavor/nocomparta/95.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/AmRnV/52d48a6ab1.png" group-title="24/7",TrollHunters 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/662.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="Entretenimiento",TruTV
-http://usuarios.club/stream/Porfavor/nocomparta/96.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="HD",TruTv HD
-http://usuarios.club/stream/Porfavor/nocomparta/501.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xW4jT/602dda8d99.png" group-title="Musica",Tu Musica HD
-http://usuarios.club/stream/Porfavor/nocomparta/516.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN 
-http://usuarios.club/stream/Porfavor/nocomparta/698.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
-http://usuarios.club/stream/Porfavor/nocomparta/822.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD",TUDN HD
-http://usuarios.club/stream/Porfavor/nocomparta/801.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN USA
-http://usuarios.club/stream/Porfavor/nocomparta/86.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD",TUDN USA HD
-http://usuarios.club/stream/Porfavor/nocomparta/821.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/GbgrR/01719acb33.png" group-title="Deportes",TVC Deportes
-http://usuarios.club/stream/Porfavor/nocomparta/837.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mVTf6/f3116d0280.png" group-title="España",TVE
-http://usuarios.club/stream/Porfavor/nocomparta/195.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/DBB4M/a9b33fc245.png" group-title="24/7",Two And a Half Men 24/7
-http://usuarios.club/stream/Porfavor/nocomparta/675.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/nTbIR/127d8b5919.png" group-title="Deportes",Tyc Sports
-http://usuarios.club/stream/Porfavor/nocomparta/274.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLoc/e5d45c354b.png" group-title="Deportes",UFC Network
-http://usuarios.club/stream/Porfavor/nocomparta/97.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLzy/cd6ff326e5.png" group-title="Entretenimiento",Unicable
-http://usuarios.club/stream/Porfavor/nocomparta/98.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLzy/cd6ff326e5.png" group-title="HD",Unicable HD
-http://usuarios.club/stream/Porfavor/nocomparta/653.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="Peliculas",Universal
-http://usuarios.club/stream/Porfavor/nocomparta/137.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="HD",Universal HD
-http://usuarios.club/stream/Porfavor/nocomparta/502.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLcu/7ea24f7b73.png" group-title="Entretenimiento",Univision
-http://usuarios.club/stream/Porfavor/nocomparta/99.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/tdSaI/025a963e05.png" group-title="Deportes",Univisión Deportes
-http://usuarios.club/stream/Porfavor/nocomparta/373.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLw0/cf67511fa3.png" group-title="Deportes",Univisión TDN
-http://usuarios.club/stream/Porfavor/nocomparta/100.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/x0NXX/d54f427175.png" group-title="Entretenimiento",Univision Tlnovelas
-http://usuarios.club/stream/Porfavor/nocomparta/413.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/maO5i/8473676ac5.png" group-title="Musica",VH1
-http://usuarios.club/stream/Porfavor/nocomparta/101.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/maO5i/8473676ac5.png" group-title="HD",VH1 HD
-http://usuarios.club/stream/Porfavor/nocomparta/632.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/sY4jC/1a83dde158.png" group-title="Musica",Video Rola
-http://usuarios.club/stream/Porfavor/nocomparta/359.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xiFQH/5d7100d8b5.png" group-title="Musica",Videos: 1Music
-http://usuarios.club/stream/Porfavor/nocomparta/433.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xiG1p/ea74af1045.png" group-title="Musica",Videos: Company Radio TV
-http://usuarios.club/stream/Porfavor/nocomparta/435.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/xiGcI/490a213a04.png" group-title="Musica",Videos: Dream TV
-http://usuarios.club/stream/Porfavor/nocomparta/439.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/q9uoz/89d364b29e.png" group-title="Musica",Virgin TV
-http://usuarios.club/stream/Porfavor/nocomparta/315.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="Entretenimiento",Warner Channel
-http://usuarios.club/stream/Porfavor/nocomparta/102.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="Entretenimiento",Warner Channel Sur
-http://usuarios.club/stream/Porfavor/nocomparta/759.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="HD",Warner Channel HD
-http://usuarios.club/stream/Porfavor/nocomparta/503.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png" group-title="Deportes",Win Sports
-http://usuarios.club/stream/Porfavor/nocomparta/292.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png" group-title="HD",Win Sports +
-http://usuarios.club/stream/Porfavor/nocomparta/881.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png" group-title="HD",Win Sports + HD
-http://usuarios.club/stream/Porfavor/nocomparta/802.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png" group-title="HD",Win Sports HD
-http://usuarios.club/stream/Porfavor/nocomparta/754.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/p9MDp/5a6d5fec70.png" group-title="Deportes",WWE Network
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",Estadísticas Coronavirus HQ
+http://hidraplay.tv:80/live/APestana/123456/35410.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
+http://hidraplay.tv:80/live/APestana/123456/50572.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Ciencia Ficcion FHD
+http://hidraplay.tv:80/live/APestana/123456/50573.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror Classics HD
+http://hidraplay.tv:80/live/APestana/123456/50574.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Comedia FHD
+http://hidraplay.tv:80/live/APestana/123456/50575.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Comics FHD
+http://hidraplay.tv:80/live/APestana/123456/50576.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Universe HD
+http://hidraplay.tv:80/live/APestana/123456/50577.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Family FHD
+http://hidraplay.tv:80/live/APestana/123456/50578.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Pixar FHD
+http://hidraplay.tv:80/live/APestana/123456/50579.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Dreamworks FHD
+http://hidraplay.tv:80/live/APestana/123456/50580.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Familia FHD
+http://hidraplay.tv:80/live/APestana/123456/50581.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Happy Madison FHD
+http://hidraplay.tv:80/live/APestana/123456/50582.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror FHD
+http://hidraplay.tv:80/live/APestana/123456/50583.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Lego Movies FHD
+http://hidraplay.tv:80/live/APestana/123456/50584.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Animated FHD
+http://hidraplay.tv:80/live/APestana/123456/50585.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Studios FHD
+http://hidraplay.tv:80/live/APestana/123456/50586.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Navidad FHD
+http://hidraplay.tv:80/live/APestana/123456/50587.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cocina Abierta FHD
+http://hidraplay.tv:80/live/APestana/123456/50588.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cuentos de la Cripta SD
+http://hidraplay.tv:80/live/APestana/123456/50589.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP DC Hero Super Girls FHD
+http://hidraplay.tv:80/live/APestana/123456/50590.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Agreetsuko HD
+http://hidraplay.tv:80/live/APestana/123456/50591.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Death Note HD
+http://hidraplay.tv:80/live/APestana/123456/50592.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Detective Conan FHD
+http://hidraplay.tv:80/live/APestana/123456/50593.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dinosaurios SD
+http://hidraplay.tv:80/live/APestana/123456/50594.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Disney Live Action FHD
+http://hidraplay.tv:80/live/APestana/123456/50595.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Disney Princess FHD
+http://hidraplay.tv:80/live/APestana/123456/50596.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Z Movies FHD
+http://hidraplay.tv:80/live/APestana/123456/50597.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Laboratorio de Dexter SD
+http://hidraplay.tv:80/live/APestana/123456/50598.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Futurama HD
+http://hidraplay.tv:80/live/APestana/123456/50599.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Happy tree friends FHD
+http://hidraplay.tv:80/live/APestana/123456/50601.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP HEY Kids FHD
+http://hidraplay.tv:80/live/APestana/123456/50602.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP House of Mouse SD
+http://hidraplay.tv:80/live/APestana/123456/50603.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Jimmy Neutron SD
+http://hidraplay.tv:80/live/APestana/123456/50604.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Johnny Bravo SD
+http://hidraplay.tv:80/live/APestana/123456/50605.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Kung Fu Panda HD
+http://hidraplay.tv:80/live/APestana/123456/50606.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Casa de Mickey Mouse HD
+http://hidraplay.tv:80/live/APestana/123456/50607.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Guardia del Leon FHD
+http://hidraplay.tv:80/live/APestana/123456/50608.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Sirenita HD
+http://hidraplay.tv:80/live/APestana/123456/50609.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Tropa Goofy HD
+http://hidraplay.tv:80/live/APestana/123456/50610.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lilo & Stitch SD
+http://hidraplay.tv:80/live/APestana/123456/50611.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Donald SD
+http://hidraplay.tv:80/live/APestana/123456/50612.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Mickey SD
+http://hidraplay.tv:80/live/APestana/123456/50613.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Cazafantasmas SD
+http://hidraplay.tv:80/live/APestana/123456/50614.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Locos Adams
+http://hidraplay.tv:80/live/APestana/123456/50615.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons FHD
+http://hidraplay.tv:80/live/APestana/123456/50616.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons Horror HD
+http://hidraplay.tv:80/live/APestana/123456/50617.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons Retro SD
+http://hidraplay.tv:80/live/APestana/123456/50618.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Supersonicos SD
+http://hidraplay.tv:80/live/APestana/123456/50619.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Masha y el Oso HD
+http://hidraplay.tv:80/live/APestana/123456/50620.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mazinger Z
+http://hidraplay.tv:80/live/APestana/123456/50621.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Kids FHD
+http://hidraplay.tv:80/live/APestana/123456/50622.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Premium FHD
+http://hidraplay.tv:80/live/APestana/123456/50623.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Premium Este FHD
+http://hidraplay.tv:80/live/APestana/123456/50624.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Premium Oeste FHD
+http://hidraplay.tv:80/live/APestana/123456/50625.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Paw Patrol FHD
+http://hidraplay.tv:80/live/APestana/123456/50626.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Peppa Pig FHD
+http://hidraplay.tv:80/live/APestana/123456/50627.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pinguinos de Madagascar HD
+http://hidraplay.tv:80/live/APestana/123456/50628.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pinky & Cerebro SD
+http://hidraplay.tv:80/live/APestana/123456/50629.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pocoyo FHD
+http://hidraplay.tv:80/live/APestana/123456/50630.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Rick y Morty FHD
+http://hidraplay.tv:80/live/APestana/123456/50631.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP South Park FHD
+http://hidraplay.tv:80/live/APestana/123456/50632.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Talking Tom FHD
+http://hidraplay.tv:80/live/APestana/123456/50633.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Thundercats New HD
+http://hidraplay.tv:80/live/APestana/123456/50634.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 31 Minutos HD
+http://hidraplay.tv:80/live/APestana/123456/50635.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Sailor Moon SD
+http://hidraplay.tv:80/live/APestana/123456/50636.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pato Aventura SD
+http://hidraplay.tv:80/live/APestana/123456/50637.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Quack Pack SD
+http://hidraplay.tv:80/live/APestana/123456/50638.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Aaahh Real Monsters SD
+http://hidraplay.tv:80/live/APestana/123456/50639.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Animaniacs SD
+http://hidraplay.tv:80/live/APestana/123456/50640.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Big Mouth HD
+http://hidraplay.tv:80/live/APestana/123456/50641.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Tiny Toons SD
+http://hidraplay.tv:80/live/APestana/123456/50642.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Un Show Mas HD
+http://hidraplay.tv:80/live/APestana/123456/50643.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Z: Saga Saiyajin
+http://hidraplay.tv:80/live/APestana/123456/34405.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cantiflas SD
+http://hidraplay.tv:80/live/APestana/123456/34407.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Futurama SD
+http://hidraplay.tv:80/live/APestana/123456/34408.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pocoyo SD
+http://hidraplay.tv:80/live/APestana/123456/34409.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 The Walking Dead SD
+http://hidraplay.tv:80/live/APestana/123456/34410.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chespirito SD
+http://hidraplay.tv:80/live/APestana/123456/34412.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Chavo Animado SD
+http://hidraplay.tv:80/live/APestana/123456/34414.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Game Of Thrones FHD
+http://hidraplay.tv:80/live/APestana/123456/34415.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Simpsons SD
+http://hidraplay.tv:80/live/APestana/123456/34416.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los supersonicos SD
+http://hidraplay.tv:80/live/APestana/123456/34417.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Super Campeones SD
+http://hidraplay.tv:80/live/APestana/123456/34420.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Pinguinos de madagascar HD
+http://hidraplay.tv:80/live/APestana/123456/34422.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball GT SD
+http://hidraplay.tv:80/live/APestana/123456/34424.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Películas Estrenos 2019 FHD
+http://hidraplay.tv:80/live/APestana/123456/34425.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Harry Potter HD
+http://hidraplay.tv:80/live/APestana/123456/34426.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Teen Titans Go FHD
+http://hidraplay.tv:80/live/APestana/123456/34427.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chernobyl HD
+http://hidraplay.tv:80/live/APestana/123456/34428.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Películas de acción FHD
+http://hidraplay.tv:80/live/APestana/123456/34430.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Batman: La serie animada SD
+http://hidraplay.tv:80/live/APestana/123456/34431.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Batman Del Futuro SD
+http://hidraplay.tv:80/live/APestana/123456/34432.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Avengers FHD
+http://hidraplay.tv:80/live/APestana/123456/34433.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Iron Man FHD
+http://hidraplay.tv:80/live/APestana/123456/34434.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Matrix SD
+http://hidraplay.tv:80/live/APestana/123456/34435.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Rápidos y Furiosos FHD
+http://hidraplay.tv:80/live/APestana/123456/34436.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Volver al Futuro FHD
+http://hidraplay.tv:80/live/APestana/123456/34437.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Spartacus SD
+http://hidraplay.tv:80/live/APestana/123456/34438.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Saw FHD
+http://hidraplay.tv:80/live/APestana/123456/34439.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 John Wick FHD
+http://hidraplay.tv:80/live/APestana/123456/34440.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Shrek FHD
+http://hidraplay.tv:80/live/APestana/123456/34441.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Toy Story FHD
+http://hidraplay.tv:80/live/APestana/123456/34442.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pantera Rosa OLD SD
+http://hidraplay.tv:80/live/APestana/123456/34443.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Bob Esponja SD
+http://hidraplay.tv:80/live/APestana/123456/34445.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chespirito SD
+http://hidraplay.tv:80/live/APestana/123456/34448.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Doraemon SD
+http://hidraplay.tv:80/live/APestana/123456/34451.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principel del Rap SD
+http://hidraplay.tv:80/live/APestana/123456/34454.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Looney Tunes SD
+http://hidraplay.tv:80/live/APestana/123456/34455.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Naruto SD
+http://hidraplay.tv:80/live/APestana/123456/34456.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 One Punch Man SD
+http://hidraplay.tv:80/live/APestana/123456/34457.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Infantiles SD
+http://hidraplay.tv:80/live/APestana/123456/34458.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pokemon SD
+http://hidraplay.tv:80/live/APestana/123456/34459.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Samurai X SD
+http://hidraplay.tv:80/live/APestana/123456/34460.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Yu-Gi-Oh SD
+http://hidraplay.tv:80/live/APestana/123456/34464.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball SD
+http://hidraplay.tv:80/live/APestana/123456/34466.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Games of Thrones HD
+http://hidraplay.tv:80/live/APestana/123456/34467.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Sakura SD
+http://hidraplay.tv:80/live/APestana/123456/34471.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mr. Bean SD
+http://hidraplay.tv:80/live/APestana/123456/34472.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chapulin Colorado SD
+http://hidraplay.tv:80/live/APestana/123456/34473.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Chavo del 8 SD
+http://hidraplay.tv:80/live/APestana/123456/34474.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Alf SD
+http://hidraplay.tv:80/live/APestana/123456/34475.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Scooby Doo SD
+http://hidraplay.tv:80/live/APestana/123456/34476.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Jurassic Park FHD
+http://hidraplay.tv:80/live/APestana/123456/35444.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 SAW SD
+http://hidraplay.tv:80/live/APestana/123456/35445.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Teen Titans Go SD
+http://hidraplay.tv:80/live/APestana/123456/35446.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Z
+http://hidraplay.tv:80/live/APestana/123456/35448.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Picapiedras 2 SD
+http://hidraplay.tv:80/live/APestana/123456/35450.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 The Big Bang Theory SD
+http://hidraplay.tv:80/live/APestana/123456/35452.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Avengers SD
+http://hidraplay.tv:80/live/APestana/123456/35453.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 CANTINFLAS (M) SD
+http://hidraplay.tv:80/live/APestana/123456/35454.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball GT FHD
+http://hidraplay.tv:80/live/APestana/123456/35455.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MOVIE TV MISTERIO FHD
+http://hidraplay.tv:80/live/APestana/123456/35456.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 TERMINATOR FHD
+http://hidraplay.tv:80/live/APestana/123456/35458.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Volver al futuro FHD
+http://hidraplay.tv:80/live/APestana/123456/35459.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Game Of Thrones (Dual) SD
+http://hidraplay.tv:80/live/APestana/123456/35460.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los super campeones SD
+http://hidraplay.tv:80/live/APestana/123456/35461.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Garfield SD
+http://hidraplay.tv:80/live/APestana/123456/35462.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Family Guy SD
+http://hidraplay.tv:80/live/APestana/123456/35463.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principel del Rap SD
+http://hidraplay.tv:80/live/APestana/123456/35465.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mr Bean SD
+http://hidraplay.tv:80/live/APestana/123456/35466.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 South Park SD
+http://hidraplay.tv:80/live/APestana/123456/35468.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 The Big Bang Theory 2 SD
+http://hidraplay.tv:80/live/APestana/123456/35469.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Tom y Jerry SD
+http://hidraplay.tv:80/live/APestana/123456/35470.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Peppa Pig HD
+http://hidraplay.tv:80/live/APestana/123456/35480.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Looney Tunes Platinum SD
+http://hidraplay.tv:80/live/APestana/123456/35481.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Ben 10: Fuerza Alienigena HD
+http://hidraplay.tv:80/live/APestana/123456/35482.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Daniel El Travieso SD
+http://hidraplay.tv:80/live/APestana/123456/35483.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Tom y Jerry SD
+http://hidraplay.tv:80/live/APestana/123456/35484.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Nuevas Aventuras De Hi-Man SD
+http://hidraplay.tv:80/live/APestana/123456/35485.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hi-Man SD
+http://hidraplay.tv:80/live/APestana/123456/35486.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Transformers SD
+http://hidraplay.tv:80/live/APestana/123456/35487.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pinky ElMyra Y Cerebro SD
+http://hidraplay.tv:80/live/APestana/123456/35488.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Ricochet Rabbit & Droop A Long SD
+http://hidraplay.tv:80/live/APestana/123456/35489.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Thundercat SD
+http://hidraplay.tv:80/live/APestana/123456/35490.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Star Trek 
+http://hidraplay.tv:80/live/APestana/123456/35491.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Sony Y Su Banda SD
+http://hidraplay.tv:80/live/APestana/123456/35492.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Scooby Doo: Dónde estás? SD
+http://hidraplay.tv:80/live/APestana/123456/35493.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Robotech SD
+http://hidraplay.tv:80/live/APestana/123456/35494.ts
+#EXTINF:0 group-title="Canales 24/7",24/7 El Pájaro Loco SD
+http://hidraplay.tv:80/live/APestana/123456/35495.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Batman HD 
+http://hidraplay.tv:80/live/APestana/123456/35496.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Picapiedras SD
+http://hidraplay.tv:80/live/APestana/123456/35497.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Pantera Rosa SD
+http://hidraplay.tv:80/live/APestana/123456/35498.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Fenomenoide SD
+http://hidraplay.tv:80/live/APestana/123456/35500.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Pequeña LuLú SD
+http://hidraplay.tv:80/live/APestana/123456/35501.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Don Gato y Su Pandilla SD
+http://hidraplay.tv:80/live/APestana/123456/35502.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dick Tracy SD
+http://hidraplay.tv:80/live/APestana/123456/35503.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Conde Patula SD
+http://hidraplay.tv:80/live/APestana/123456/35504.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Coraje El Perro Cobarde SD
+http://hidraplay.tv:80/live/APestana/123456/35505.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Gasparin Y Sus Amigos SD
+http://hidraplay.tv:80/live/APestana/123456/35506.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cantinflas Show SD
+http://hidraplay.tv:80/live/APestana/123456/35507.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 South Park HD
+http://hidraplay.tv:80/live/APestana/123456/35509.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Phineas Y Ferb HD
+http://hidraplay.tv:80/live/APestana/123456/35510.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Patoaventura 2017 HD
+http://hidraplay.tv:80/live/APestana/123456/35511.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Padre De Familia HD
+http://hidraplay.tv:80/live/APestana/123456/35512.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Miraculous: Las Aventura De Ladybug HD
+http://hidraplay.tv:80/live/APestana/123456/35513.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Ley De Milo Murphy HD
+http://hidraplay.tv:80/live/APestana/123456/35514.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Gravity falls HD
+http://hidraplay.tv:80/live/APestana/123456/35515.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chapulín Colorado Animado HD
+http://hidraplay.tv:80/live/APestana/123456/35516.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Bob Esponja HD
+http://hidraplay.tv:80/live/APestana/123456/35517.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 PatoAventuras 1987 SD
+http://hidraplay.tv:80/live/APestana/123456/35518.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Increíble Hombre Araña HD 
+http://hidraplay.tv:80/live/APestana/123456/35519.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mi Bella Genio SD
+http://hidraplay.tv:80/live/APestana/123456/35521.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Megaman SD
+http://hidraplay.tv:80/live/APestana/123456/35522.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Malcolm HD
+http://hidraplay.tv:80/live/APestana/123456/35523.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Caballeros Del Zodiaco HD
+http://hidraplay.tv:80/live/APestana/123456/35524.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hey Arnold SD
+http://hidraplay.tv:80/live/APestana/123456/35525.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Show De Looney Tunes HD
+http://hidraplay.tv:80/live/APestana/123456/35526.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Duck Dodgers HD
+http://hidraplay.tv:80/live/APestana/123456/35527.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball Super HD
+http://hidraplay.tv:80/live/APestana/123456/35528.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball  Gt HD
+http://hidraplay.tv:80/live/APestana/123456/35529.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Digimo Adventure SD
+http://hidraplay.tv:80/live/APestana/123456/35530.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Ben 10 HD
+http://hidraplay.tv:80/live/APestana/123456/35531.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Baron Rojo SD
+http://hidraplay.tv:80/live/APestana/123456/35532.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Scooby Doo HD
+http://hidraplay.tv:80/live/APestana/123456/35533.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Ranma 1/2 HD
+http://hidraplay.tv:80/live/APestana/123456/35534.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Halcones Galáctico SD
+http://hidraplay.tv:80/live/APestana/123456/35535.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Exponiendo Infieles SD
+http://hidraplay.tv:80/live/APestana/123456/49158.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado Inmigracion SD
+http://hidraplay.tv:80/live/APestana/123456/49159.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado La Familia 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49160.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado La Familia 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49161.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado La Familia 3 SD
+http://hidraplay.tv:80/live/APestana/123456/49162.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Laura Bozzo SD
+http://hidraplay.tv:80/live/APestana/123456/49163.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Miguelito SD (Chile)
+http://hidraplay.tv:80/live/APestana/123456/49164.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Lo Que Callamos Las Mujeres SD
+http://hidraplay.tv:80/live/APestana/123456/49165.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mayday Catastrofes Aereas SD
+http://hidraplay.tv:80/live/APestana/123456/49166.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Alienigenas Ancestrales SD
+http://hidraplay.tv:80/live/APestana/123456/49167.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Mundo De Beakman Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49168.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Mundo De Beakman Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49169.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Mundo De Beakman Temp 3 SD
+http://hidraplay.tv:80/live/APestana/123456/49170.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Mundo De Beakman Temp 4 SD
+http://hidraplay.tv:80/live/APestana/123456/49171.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49172.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49173.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 3 SD
+http://hidraplay.tv:80/live/APestana/123456/49174.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 4 SD
+http://hidraplay.tv:80/live/APestana/123456/49175.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 5 SD
+http://hidraplay.tv:80/live/APestana/123456/49176.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 6 SD
+http://hidraplay.tv:80/live/APestana/123456/49177.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Castle Temp 7 SD
+http://hidraplay.tv:80/live/APestana/123456/49178.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 CSI Miami Temp 1-5 SD
+http://hidraplay.tv:80/live/APestana/123456/49179.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 CSI Miami Temp 6-10 SD
+http://hidraplay.tv:80/live/APestana/123456/49180.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 NCIS Los Angeles SD
+http://hidraplay.tv:80/live/APestana/123456/49181.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Magnificos Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49182.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Magnificos Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49183.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Auto Fantastico SD
+http://hidraplay.tv:80/live/APestana/123456/49184.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Auto Fantastico (2008) SD
+http://hidraplay.tv:80/live/APestana/123456/49185.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MacGiver (2016) Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49186.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MacGiver (2016) Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49187.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 ER Sala de Urgencias SD
+http://hidraplay.tv:80/live/APestana/123456/49188.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Porcel Y Olmedo SD
+http://hidraplay.tv:80/live/APestana/123456/49189.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los 3 Chiflados SD
+http://hidraplay.tv:80/live/APestana/123456/49190.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pedro Infante SD
+http://hidraplay.tv:80/live/APestana/123456/49191.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49192.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49193.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 3 SD
+http://hidraplay.tv:80/live/APestana/123456/49194.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 4 SD
+http://hidraplay.tv:80/live/APestana/123456/49195.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 5 SD
+http://hidraplay.tv:80/live/APestana/123456/49196.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 6 SD
+http://hidraplay.tv:80/live/APestana/123456/49197.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Niñera Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49198.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Friends Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49199.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Friends Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49200.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hannah Montana Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49201.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paso A Paso SD
+http://hidraplay.tv:80/live/APestana/123456/49203.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Hora Pico SD
+http://hidraplay.tv:80/live/APestana/123456/49204.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Una Familia de Diez SD
+http://hidraplay.tv:80/live/APestana/123456/49205.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Familia Peluche SD
+http://hidraplay.tv:80/live/APestana/123456/49206.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49207.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49208.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 3 SD
+http://hidraplay.tv:80/live/APestana/123456/49209.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 4 SD
+http://hidraplay.tv:80/live/APestana/123456/49210.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 5 SD
+http://hidraplay.tv:80/live/APestana/123456/49211.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Full House Temp 1 SD
+http://hidraplay.tv:80/live/APestana/123456/49212.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Full House Temp 2 SD
+http://hidraplay.tv:80/live/APestana/123456/49213.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paradise PD SD
+http://hidraplay.tv:80/live/APestana/123456/49214.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragones de Berck SD
+http://hidraplay.tv:80/live/APestana/123456/49215.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Vengadores SD (Unidos)
+http://hidraplay.tv:80/live/APestana/123456/49216.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Brickleberry SD (+15)
+http://hidraplay.tv:80/live/APestana/123456/49217.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mr Pickles SD
+http://hidraplay.tv:80/live/APestana/123456/49218.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Barney y sus Amigos SD
+http://hidraplay.tv:80/live/APestana/123456/49219.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Automan SD
+http://hidraplay.tv:80/live/APestana/123456/49220.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Animaniacs SD
+http://hidraplay.tv:80/live/APestana/123456/49221.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Autobus Magico SD
+http://hidraplay.tv:80/live/APestana/123456/49222.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Bubble Guppies SD
+http://hidraplay.tv:80/live/APestana/123456/49224.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Donde esta Wally SD
+http://hidraplay.tv:80/live/APestana/123456/49225.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dora la Exploradora SD
+http://hidraplay.tv:80/live/APestana/123456/49226.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dora y sus Amigos en la Ciudad SD
+http://hidraplay.tv:80/live/APestana/123456/49227.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Agente Oso SD
+http://hidraplay.tv:80/live/APestana/123456/49228.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Bebe Jefazo Vuelta al Curro SD
+http://hidraplay.tv:80/live/APestana/123456/49229.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Laboratorio de Dexter SD
+http://hidraplay.tv:80/live/APestana/123456/49230.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Equipo Umizoomi SD
+http://hidraplay.tv:80/live/APestana/123456/49231.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Fabulas de Esopo SD
+http://hidraplay.tv:80/live/APestana/123456/49232.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Casa de Mickey Mouse SD
+http://hidraplay.tv:80/live/APestana/123456/49233.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Doctora Juguete SD
+http://hidraplay.tv:80/live/APestana/123456/49234.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Pistas de Blue SD
+http://hidraplay.tv:80/live/APestana/123456/49235.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paw Patroll SD
+http://hidraplay.tv:80/live/APestana/123456/49236.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hombres de Negro Serie Animada SD
+http://hidraplay.tv:80/live/APestana/123456/49237.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Pitufos SD
+http://hidraplay.tv:80/live/APestana/123456/49238.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 She-Ra La Princesa del Poder SD
+http://hidraplay.tv:80/live/APestana/123456/49239.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitan America y Los Planetarios SD
+http://hidraplay.tv:80/live/APestana/123456/49240.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Sailor Moon SD
+http://hidraplay.tv:80/live/APestana/123456/49241.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Guerreras Magicas SD
+http://hidraplay.tv:80/live/APestana/123456/49242.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Tortugas Ninja SD
+http://hidraplay.tv:80/live/APestana/123456/49243.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Angry Birds Toons SD
+http://hidraplay.tv:80/live/APestana/123456/49244.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Aladino SD
+http://hidraplay.tv:80/live/APestana/123456/49245.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Birdman SD
+http://hidraplay.tv:80/live/APestana/123456/49246.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Gargolas Heroes Goticos SD
+http://hidraplay.tv:80/live/APestana/123456/49247.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Spiderman SD
+http://hidraplay.tv:80/live/APestana/123456/49248.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Super Mario Bross 3 SD
+http://hidraplay.tv:80/live/APestana/123456/49249.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Castores Cascarrabias SD
+http://hidraplay.tv:80/live/APestana/123456/49250.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Beast Wars SD
+http://hidraplay.tv:80/live/APestana/123456/49251.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Beast Wars Machines SD
+http://hidraplay.tv:80/live/APestana/123456/49252.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Gi Joe SD
+http://hidraplay.tv:80/live/APestana/123456/49253.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Rugrats Aventura en Pañales SD
+http://hidraplay.tv:80/live/APestana/123456/49254.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Chicas Superpoderosas SD
+http://hidraplay.tv:80/live/APestana/123456/49255.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitan Cabernicola SD
+http://hidraplay.tv:80/live/APestana/123456/49256.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Jhonny Bravo SD
+http://hidraplay.tv:80/live/APestana/123456/49257.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Vaca y el Pollito SD
+http://hidraplay.tv:80/live/APestana/123456/49258.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Años Maravillosos SD
+http://hidraplay.tv:80/live/APestana/123456/49259.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Aventuras de Tin Tin SD
+http://hidraplay.tv:80/live/APestana/123456/49260.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Inspector Gadget SD
+http://hidraplay.tv:80/live/APestana/123456/49261.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Oso Yogui SD
+http://hidraplay.tv:80/live/APestana/123456/49262.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Muppet Babys SD
+http://hidraplay.tv:80/live/APestana/123456/49263.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Candy Candy SD
+http://hidraplay.tv:80/live/APestana/123456/49264.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Familia Meñique SD
+http://hidraplay.tv:80/live/APestana/123456/49265.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Un Show Mas SD
+http://hidraplay.tv:80/live/APestana/123456/49266.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Reto de los Super Amigos SD
+http://hidraplay.tv:80/live/APestana/123456/49267.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Fenomenoide SD
+http://hidraplay.tv:80/live/APestana/123456/49268.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Hormiga y el Oso Hormiguero SD
+http://hidraplay.tv:80/live/APestana/123456/49269.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Pais de Donkey Kong SD
+http://hidraplay.tv:80/live/APestana/123456/49270.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Super Libro SD
+http://hidraplay.tv:80/live/APestana/123456/49271.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los 7 Pecados Capitales SD
+http://hidraplay.tv:80/live/APestana/123456/49272.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Timon & Pumbaa SD
+http://hidraplay.tv:80/live/APestana/123456/49273.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Casa de los Dibujos SD
+http://hidraplay.tv:80/live/APestana/123456/49274.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Gallo Claudio SD
+http://hidraplay.tv:80/live/APestana/123456/49275.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Heathcliff SD
+http://hidraplay.tv:80/live/APestana/123456/49276.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Jackie Chan SD (Animada)
+http://hidraplay.tv:80/live/APestana/123456/49277.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Beetlejuice SD
+http://hidraplay.tv:80/live/APestana/123456/49279.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Sonic X SD
+http://hidraplay.tv:80/live/APestana/123456/49280.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Street Sharks SD
+http://hidraplay.tv:80/live/APestana/123456/49281.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Generador Rex SD
+http://hidraplay.tv:80/live/APestana/123456/49282.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Gatos Samurai SD
+http://hidraplay.tv:80/live/APestana/123456/49283.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Osos Gummi SD
+http://hidraplay.tv:80/live/APestana/123456/49284.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Liga del Dragon VHSRip SD
+http://hidraplay.tv:80/live/APestana/123456/49285.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Megaman NT Warrior SD
+http://hidraplay.tv:80/live/APestana/123456/49286.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Xena La Princesa Guerrera SD
+http://hidraplay.tv:80/live/APestana/123456/49287.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hercules Los Viajes Legendarios SD
+http://hidraplay.tv:80/live/APestana/123456/49288.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Liveman SD
+http://hidraplay.tv:80/live/APestana/123456/49289.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Narrador de Cuentos SD
+http://hidraplay.tv:80/live/APestana/123456/49290.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 1000 Maneras de Morir SD
+http://hidraplay.tv:80/live/APestana/123456/49291.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Oxlack Investigador Paranormal SD
+http://hidraplay.tv:80/live/APestana/123456/49292.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Contacto Extranormal SD
+http://hidraplay.tv:80/live/APestana/123456/49293.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Historias de Ultratumba SD
+http://hidraplay.tv:80/live/APestana/123456/49294.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Smallville SD
+http://hidraplay.tv:80/live/APestana/123456/50649.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Breaking Bad SD
+http://hidraplay.tv:80/live/APestana/123456/50651.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Le Temes a la oscuridad SD
+http://hidraplay.tv:80/live/APestana/123456/50652.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Senor de los Cielos SD
+http://hidraplay.tv:80/live/APestana/123456/50653.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Studios Este FHD
+http://hidraplay.tv:80/live/APestana/123456/58067.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Studios Oeste FHD
+http://hidraplay.tv:80/live/APestana/123456/58068.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Anime [test] FHD
+http://hidraplay.tv:80/live/APestana/123456/58069.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cine Prime [Test]
+http://hidraplay.tv:80/live/APestana/123456/58070.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Retro Simpsons HD
+http://hidraplay.tv:80/live/APestana/123456/58071.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP (Des)encanto
+http://hidraplay.tv:80/live/APestana/123456/58072.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 31 Minutos SD 
+http://hidraplay.tv:80/live/APestana/123456/58073.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Babar SD 
+http://hidraplay.tv:80/live/APestana/123456/58074.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Camaras Escondidas TV ⁽ᴴᴰ⁾
+http://hidraplay.tv:80/live/APestana/123456/58075.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Bob Esponja SD
+http://hidraplay.tv:80/live/APestana/123456/58076.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Chicas Superpoderosas
+http://hidraplay.tv:80/live/APestana/123456/58077.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Winnie the Pooh SD
+http://hidraplay.tv:80/live/APestana/123456/58078.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP YooHoo and Friends HD
+http://hidraplay.tv:80/live/APestana/123456/58079.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Alf SD
+http://hidraplay.tv:80/live/APestana/123456/58080.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Donald Channel SD
+http://hidraplay.tv:80/live/APestana/123456/58081.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball HD
+http://hidraplay.tv:80/live/APestana/123456/58082.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball 2 HD
+http://hidraplay.tv:80/live/APestana/123456/58083.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball GT SD 
+http://hidraplay.tv:80/live/APestana/123456/58084.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Duck Dodgers SD
+http://hidraplay.tv:80/live/APestana/123456/58085.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Pajaro Loco SD
+http://hidraplay.tv:80/live/APestana/123456/58086.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Fenomenoide SD 
+http://hidraplay.tv:80/live/APestana/123456/58087.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Gallo claudio SD
+http://hidraplay.tv:80/live/APestana/123456/58088.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Jhonny Bravo SD
+http://hidraplay.tv:80/live/APestana/123456/58089.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Amazon Kids (Test) FHD
+http://hidraplay.tv:80/live/APestana/123456/58090.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Happy Halloween Kids HD
+http://hidraplay.tv:80/live/APestana/123456/58091.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Novasur HD
+http://hidraplay.tv:80/live/APestana/123456/58092.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Chu Chu TV
+http://hidraplay.tv:80/live/APestana/123456/58093.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Huevos Verdes con Jamon HD
+http://hidraplay.tv:80/live/APestana/123456/58094.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Teen Titans GO FHD
+http://hidraplay.tv:80/live/APestana/123456/58095.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Little Pet Shop HD
+http://hidraplay.tv:80/live/APestana/123456/58096.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Show de Garfield FHD 
+http://hidraplay.tv:80/live/APestana/123456/58097.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Buzz Lightyear
+http://hidraplay.tv:80/live/APestana/123456/58098.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Timon y Pumba SD
+http://hidraplay.tv:80/live/APestana/123456/58099.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mickey Mouse
+http://hidraplay.tv:80/live/APestana/123456/58100.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Pluto SD
+http://hidraplay.tv:80/live/APestana/123456/58101.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pato Darwing SD 
+http://hidraplay.tv:80/live/APestana/123456/58102.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Doug SD
+http://hidraplay.tv:80/live/APestana/123456/58103.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 2 Perros Tontos SD 
+http://hidraplay.tv:80/live/APestana/123456/58104.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
+http://hidraplay.tv:80/live/APestana/123456/58105.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
+http://hidraplay.tv:80/live/APestana/123456/58106.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
+http://hidraplay.tv:80/live/APestana/123456/58107.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Doraemon FHD
+http://hidraplay.tv:80/live/APestana/123456/58108.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Supercampeones HD
+http://hidraplay.tv:80/live/APestana/123456/58109.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Gatos Samurai SD
+http://hidraplay.tv:80/live/APestana/123456/58110.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Croods HD
+http://hidraplay.tv:80/live/APestana/123456/58111.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Picapiedras SD
+http://hidraplay.tv:80/live/APestana/123456/58112.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Tortugas Ninja SD
+http://hidraplay.tv:80/live/APestana/123456/58113.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Street Shark SD
+http://hidraplay.tv:80/live/APestana/123456/58114.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP She-ra SD
+http://hidraplay.tv:80/live/APestana/123456/58115.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Looney Tunes Show FHD
+http://hidraplay.tv:80/live/APestana/123456/58116.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Looney Tunes HD
+http://hidraplay.tv:80/live/APestana/123456/58117.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Autos Locos SD
+http://hidraplay.tv:80/live/APestana/123456/58118.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Grupo Increible SD
+http://hidraplay.tv:80/live/APestana/123456/58119.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Chavo HD
+http://hidraplay.tv:80/live/APestana/123456/58120.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Chespirito TV
+http://hidraplay.tv:80/live/APestana/123456/58121.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Sam y Cat HD 
+http://hidraplay.tv:80/live/APestana/123456/58122.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mr.Bean SD
+http://hidraplay.tv:80/live/APestana/123456/58123.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Hechizada SD
+http://hidraplay.tv:80/live/APestana/123456/58124.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP TWD Channel FHD
+http://hidraplay.tv:80/live/APestana/123456/58125.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Buenazo TV FHD
+http://hidraplay.tv:80/live/APestana/123456/58126.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cocina Real TV FHD
+http://hidraplay.tv:80/live/APestana/123456/58127.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Riquisimo FHD
+http://hidraplay.tv:80/live/APestana/123456/58128.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mega Gourmet HD
+http://hidraplay.tv:80/live/APestana/123456/58129.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 13 Docu SD
+http://hidraplay.tv:80/live/APestana/123456/58130.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Hagalo Usted Mismo TV
+http://hidraplay.tv:80/live/APestana/123456/58131.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Rompeportones SD
+http://hidraplay.tv:80/live/APestana/123456/58132.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Solo para reir TV HD
+http://hidraplay.tv:80/live/APestana/123456/58133.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Resistencia FHD
+http://hidraplay.tv:80/live/APestana/123456/58134.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Resistencia Canal 2 FHD
+http://hidraplay.tv:80/live/APestana/123456/58135.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 ALF SD
+http://hidraplay.tv:80/live/APestana/123456/58260.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Animaniacs SD
+http://hidraplay.tv:80/live/APestana/123456/58262.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Beetlejuice FHD
+http://hidraplay.tv:80/live/APestana/123456/58263.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cantinflas HD
+http://hidraplay.tv:80/live/APestana/123456/58264.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado HD
+http://hidraplay.tv:80/live/APestana/123456/58265.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Coraje SD
+http://hidraplay.tv:80/live/APestana/123456/58267.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Daniel el travieso SD
+http://hidraplay.tv:80/live/APestana/123456/58268.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dinky Dog SD
+http://hidraplay.tv:80/live/APestana/123456/58269.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball GT HD
+http://hidraplay.tv:80/live/APestana/123456/58271.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Super HD
+http://hidraplay.tv:80/live/APestana/123456/58273.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Drama Total SD
+http://hidraplay.tv:80/live/APestana/123456/58276.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Fantastico Max SD
+http://hidraplay.tv:80/live/APestana/123456/58277.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Chavo Del 8 SD
+http://hidraplay.tv:80/live/APestana/123456/58278.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Escuadron De Super Heroes SD
+http://hidraplay.tv:80/live/APestana/123456/58279.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Gato Felix HD
+http://hidraplay.tv:80/live/APestana/123456/58280.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 El General Naranjo HD
+http://hidraplay.tv:80/live/APestana/123456/58281.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Hijo de Frankenstein SD
+http://hidraplay.tv:80/live/APestana/123456/58282.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Jinete Sable y los comisarios estrella SD
+http://hidraplay.tv:80/live/APestana/123456/58283.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe De lRap SD
+http://hidraplay.tv:80/live/APestana/123456/58284.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe Del Rap 2 HD
+http://hidraplay.tv:80/live/APestana/123456/58285.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Reto De Los Super Amigos HD
+http://hidraplay.tv:80/live/APestana/123456/58286.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Escuela de Heroes SD
+http://hidraplay.tv:80/live/APestana/123456/58288.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Especiales de Halloween 2019 SD
+http://hidraplay.tv:80/live/APestana/123456/58289.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Foofur HD
+http://hidraplay.tv:80/live/APestana/123456/58290.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Friends HD
+http://hidraplay.tv:80/live/APestana/123456/58291.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Godzilla SD
+http://hidraplay.tv:80/live/APestana/123456/58293.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Harvey Birdman El Abogado SD
+http://hidraplay.tv:80/live/APestana/123456/58294.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Heathcliff SD
+http://hidraplay.tv:80/live/APestana/123456/58295.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hong Kong Phooey SD
+http://hidraplay.tv:80/live/APestana/123456/58296.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las aventuras de Tom Sawyer SD
+http://hidraplay.tv:80/live/APestana/123456/58298.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las Nuevas Peliculas De Scooby Doo SD
+http://hidraplay.tv:80/live/APestana/123456/58300.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Caballeros del Zodiaco SD
+http://hidraplay.tv:80/live/APestana/123456/58301.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Cazafantasmas SD
+http://hidraplay.tv:80/live/APestana/123456/58302.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Cuentos De La Calle Broca SD
+http://hidraplay.tv:80/live/APestana/123456/58303.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Dragones de la Mesa Cuadrada SD
+http://hidraplay.tv:80/live/APestana/123456/58304.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Gatos Samurai SD
+http://hidraplay.tv:80/live/APestana/123456/58305.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Locos Addams SD
+http://hidraplay.tv:80/live/APestana/123456/58306.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los peligros De Penelope Glamour SD
+http://hidraplay.tv:80/live/APestana/123456/58307.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los peligros De Penelope Glamour SD
+http://hidraplay.tv:80/live/APestana/123456/58308.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los pequeños Looney Tunes HD
+http://hidraplay.tv:80/live/APestana/123456/58309.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los pequeños Tom y Jerry SD
+http://hidraplay.tv:80/live/APestana/123456/58310.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Picapiedras SD
+http://hidraplay.tv:80/live/APestana/123456/58311.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Los Simpsons HD
+http://hidraplay.tv:80/live/APestana/123456/58314.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Super Globetrotters SD
+http://hidraplay.tv:80/live/APestana/123456/58315.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los vengadores los heroes mas poderosos del planeta SD
+http://hidraplay.tv:80/live/APestana/123456/58316.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MALCOLM SD
+http://hidraplay.tv:80/live/APestana/123456/58317.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mi Monstruito SD
+http://hidraplay.tv:80/live/APestana/123456/58319.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pajaro Loco HD
+http://hidraplay.tv:80/live/APestana/123456/58322.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Piernas Locas Crane SD
+http://hidraplay.tv:80/live/APestana/123456/58325.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Abbott y Costello SD
+http://hidraplay.tv:80/live/APestana/123456/58157.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Timon y Pumba HD
+http://hidraplay.tv:80/live/APestana/123456/58230.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 The Big Bang Theory FHD
+http://hidraplay.tv:80/live/APestana/123456/58228.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Supercampeones SD
+http://hidraplay.tv:80/live/APestana/123456/58223.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Shurato SD
+http://hidraplay.tv:80/live/APestana/123456/58220.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Seabert SD
+http://hidraplay.tv:80/live/APestana/123456/58218.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pulgarcito Investigador Privado SD
+http://hidraplay.tv:80/live/APestana/123456/58215.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pequeños Planetas HD
+http://hidraplay.tv:80/live/APestana/123456/58212.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mighty Ducks SD
+http://hidraplay.tv:80/live/APestana/123456/58210.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mi pobre angelito SD
+http://hidraplay.tv:80/live/APestana/123456/58209.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Imposibles SD
+http://hidraplay.tv:80/live/APestana/123456/58208.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Loop y De Loop SD
+http://hidraplay.tv:80/live/APestana/123456/58149.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Looney Tunes  1 SD
+http://hidraplay.tv:80/live/APestana/123456/58207.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La ranita Demetan SD
+http://hidraplay.tv:80/live/APestana/123456/58203.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Guerra de Sakura SD
+http://hidraplay.tv:80/live/APestana/123456/58201.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Granja SD
+http://hidraplay.tv:80/live/APestana/123456/58200.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Familia Proud SD
+http://hidraplay.tv:80/live/APestana/123456/58198.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Kidd-Video SD
+http://hidraplay.tv:80/live/APestana/123456/58194.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Historias De Fantasmas HD
+http://hidraplay.tv:80/live/APestana/123456/58190.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 He Man SD
+http://hidraplay.tv:80/live/APestana/123456/58189.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Guerra De Bestias Transformers SD
+http://hidraplay.tv:80/live/APestana/123456/58188.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Gasparin y los Angeles SD
+http://hidraplay.tv:80/live/APestana/123456/58187.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Full metal Alchemist HD
+http://hidraplay.tv:80/live/APestana/123456/58185.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Family Guy HD
+http://hidraplay.tv:80/live/APestana/123456/58183.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Fábulas del Bosque Verde SD
+http://hidraplay.tv:80/live/APestana/123456/58186.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Espíritu de lucha HD
+http://hidraplay.tv:80/live/APestana/123456/58182.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Elfen Lied HD
+http://hidraplay.tv:80/live/APestana/123456/58181.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El valle de los dinosaurios SD
+http://hidraplay.tv:80/live/APestana/123456/58180.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El show de Scooby Doo y ScrappyDoo SD
+http://hidraplay.tv:80/live/APestana/123456/58179.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe del Tenis SD
+http://hidraplay.tv:80/live/APestana/123456/58178.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dr House HD
+http://hidraplay.tv:80/live/APestana/123456/58177.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dog City HD
+http://hidraplay.tv:80/live/APestana/123456/58176.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 DNA² SD
+http://hidraplay.tv:80/live/APestana/123456/58175.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dartacán y los tres mosqueperros SD
+http://hidraplay.tv:80/live/APestana/123456/58174.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cowboy Bebop HD
+http://hidraplay.tv:80/live/APestana/123456/58173.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Clue Club SD
+http://hidraplay.tv:80/live/APestana/123456/58172.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chicos Del Barrio HD
+http://hidraplay.tv:80/live/APestana/123456/58171.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chica Marioneta SD
+http://hidraplay.tv:80/live/APestana/123456/58169.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitan Futuro SD
+http://hidraplay.tv:80/live/APestana/123456/58167.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitán Centella SD
+http://hidraplay.tv:80/live/APestana/123456/58168.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Burst Angel HD
+http://hidraplay.tv:80/live/APestana/123456/58166.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Bandidos en el tiempo SD
+http://hidraplay.tv:80/live/APestana/123456/58164.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Bailando con vampiros HD
+http://hidraplay.tv:80/live/APestana/123456/58163.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Aventuras de un lobo adolescente SD
+http://hidraplay.tv:80/live/APestana/123456/58162.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Archie y Sabrina la Hechicera SD
+http://hidraplay.tv:80/live/APestana/123456/58161.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Angel la niña de la flores SD
+http://hidraplay.tv:80/live/APestana/123456/58160.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 American Dad 2 HD
+http://hidraplay.tv:80/live/APestana/123456/58159.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Almendrita SD
+http://hidraplay.tv:80/live/APestana/123456/58158.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Zoids Fuzors SD
+http://hidraplay.tv:80/live/APestana/123456/58237.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 X Men Evolution SD
+http://hidraplay.tv:80/live/APestana/123456/58236.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Wolfs Rain SD
+http://hidraplay.tv:80/live/APestana/123456/58235.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Transformers Prime HD
+http://hidraplay.tv:80/live/APestana/123456/58233.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Tokko HD
+http://hidraplay.tv:80/live/APestana/123456/58231.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 La Tortuga DArtagnan y DumDum SD
+http://hidraplay.tv:80/live/APestana/123456/58204.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Locos Dieciséis SD
+http://hidraplay.tv:80/live/APestana/123456/58206.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Oban Star-Racers HD
+http://hidraplay.tv:80/live/APestana/123456/58211.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Rambo SD
+http://hidraplay.tv:80/live/APestana/123456/58216.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Saikano HD
+http://hidraplay.tv:80/live/APestana/123456/58217.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 SuperGirl HD
+http://hidraplay.tv:80/live/APestana/123456/58224.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Tarzan HD
+http://hidraplay.tv:80/live/APestana/123456/58226.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Tarzan, el señor de la jungla SD
+http://hidraplay.tv:80/live/APestana/123456/58227.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Thundarr, el barbaro SD
+http://hidraplay.tv:80/live/APestana/123456/58229.ts
+#EXTINF:0 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Wildcats SD
