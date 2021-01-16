@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,vanilla sky
+https://www1919.ff-04.com/token=9Ro-eHff4GKVlqocKSEn4Q/1610789088/189.186.0.0/20/c/b3/2c02140474eacc5e7afbe48861f59b3c-480p.mp4
+
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
