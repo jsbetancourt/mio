@@ -1,7 +1,50 @@
 #EXTM3U
+#EXTINF:-1, CAP1
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/01.mp4
+#EXTINF:-1, CAP2
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/02.mp4
+#EXTINF:-1, CAP3
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/03.mp4
+#EXTINF:-1, CAP4
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/04.mp4
+#EXTINF:-1, CAP5
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/05.mp4
+#EXTINF:-1, CAP6
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/06.mp4
+#EXTINF:-1, CAP7
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/07.mp4
+#EXTINF:-1, CAP8
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/08.mp4
+#EXTINF:-1, CAP9
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/09.mp4
+#EXTINF:-1, CAP10
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/10.mp4
+#EXTINF:-1, CAP11
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/11.mp4
+#EXTINF:-1, CAP12
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/12.mp4
+#EXTINF:-1, CAP13
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/13.mp4
+#EXTINF:-1, CAP14
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/14.mp4
+#EXTINF:-1, CAP15
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/15.mp4
+#EXTINF:-1, CAP16
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/16.mp4
+#EXTINF:-1, CAP17
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/17.mp4
+#EXTINF:-1, CAP18
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/18.mp4
+#EXTINF:-1, CAP19
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/19.mp4
+#EXTINF:-1, CAP20
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/20.mp4
+#EXTINF:-1, CAP21
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/21.mp4
+#EXTINF:-1, CAP22
+http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/22.mp4
 
 #EXTINF:-1,Girls Trip
-
 https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219915&authkey=AJA5_peUAqb3Lec
 #EXTINF:-1,JEXI
 https://giwsvg.sn.files.1drv.com/y4mRupO9vBRLDOYMRuWswFvyy_5oR9z-W6NCDB5heRdWGTOIphXbhI4RlS_kjHjEpYPVB0y8RdH19-7FpHMMJB0ZKTcnWYtLIUepoMSUBQxwDgHFP_X26k9YHWj0_EE208ClmHfwIRqGahNkSSGlFiuLg--PK4gtheokFOPkZAQW0p6fOZ36b7cdF2lRFnPqlDbHQCHS7IDGbRVauIcwkujdg/Jexi%20(2019).mkv?download&psid=1
