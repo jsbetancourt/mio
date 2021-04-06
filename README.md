@@ -43,10 +43,6 @@ http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/20.mp4
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/21.mp4
 #EXTINF:-1, CAP22
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/22.mp4
-
-
-#EXTINF:-1, Temp 2 CAP1
-http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T2/01.mp4
 #EXTINF:-1, Temp 2 CAP2
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T2/02.mp4
 #EXTINF:-1, Temp 2 CAP3
@@ -89,7 +85,6 @@ http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T2/20.mp4
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T2/21.mp4
 #EXTINF:-1, Temp 2 CAP22
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T2/22.mp4
-
 #EXTINF:-1, Temp 3 CAP1
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T3/01.mp4
 #EXTINF:-1, Temp 3 CAP2
