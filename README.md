@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Pay the ghost
+https://www672.ff-02.com/token=NcrJKj2E8VPNsuuflCv0Lg/1618304402/187.149.0.0/73/2/f4/8b4363cbc4397708c2308d0e96801f42-480p.mp4
 #EXTINF:-1, CAP1
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/01.mp4
 #EXTINF:-1, CAP3
