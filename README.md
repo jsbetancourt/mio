@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Pay the ghost
-https://fumswufrgl.mscontent.net/l/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjE4OS4xODYuMjExLjEwNyIsImgycGQ0bGU3dDNxbSIsIm4iLDEsIjM5OGM4M2EyNGFkODcyNWRlODI4YjFiN2IxY2YxMmQ4Il0sImV4cCI6MTYxODQ5MDA2NX0.hZgi_Z5TwwRyxPz4kQpDxcCbTGGgNNYiCkJFanUlbrw.mp4
+https://fumswufrgl.mscontent.net/k/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0OTA4MzAsImRhdGEiOlsiMTg5LjE4Ni4yMTEuMTA3IiwiMmxnZXpvd2l1d3BvIiwibiIsMiwiMzk4YzgzYTI0YWQ4NzI1ZGU4MjhiMWI3YjFjZjEyZDgiXX0.IAKJM5PdRDa2hG4rjMbaAv5UDURZy9IKqKJUB8vIxec.mp4
 #EXTINF:-1, CAP1
 http://201.172.61.81:85/series/Novelas/el%20auto%20fantastico/T1/01.mp4
 #EXTINF:-1, CAP3
